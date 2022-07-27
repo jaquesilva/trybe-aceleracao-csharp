@@ -1,0 +1,12 @@
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/bin/Debug/net6.0/TestingCasting.deps.json
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/bin/Debug/net6.0/TestingCasting.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/bin/Debug/net6.0/TestingCasting.pdb
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/TestingCasting.csproj.AssemblyReference.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/TestingCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/TestingCasting.AssemblyInfoInputs.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/TestingCasting.AssemblyInfo.cs
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/TestingCasting.csproj.CoreCompileInputs.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/TestingCasting.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/refint/TestingCasting.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/TestingCasting.pdb
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/TestingCasting/TestingCasting/obj/Debug/net6.0/ref/TestingCasting.dll
