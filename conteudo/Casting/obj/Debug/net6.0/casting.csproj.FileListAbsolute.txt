@@ -1,0 +1,15 @@
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/casting.csproj.AssemblyReference.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/casting.AssemblyInfoInputs.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/casting.AssemblyInfo.cs
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/casting.csproj.CoreCompileInputs.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/bin/Debug/net6.0/casting
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/bin/Debug/net6.0/casting.deps.json
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/bin/Debug/net6.0/casting.runtimeconfig.json
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/bin/Debug/net6.0/casting.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/bin/Debug/net6.0/casting.pdb
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/casting.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/refint/casting.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/casting.pdb
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/casting.genruntimeconfig.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/Casting/obj/Debug/net6.0/ref/casting.dll

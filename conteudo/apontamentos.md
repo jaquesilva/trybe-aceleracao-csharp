@@ -17,7 +17,8 @@ Essas operações podem até gerar, como produto, uma variável de tipo diferent
 
 A transformação de uma variável de determinado tipo em outro pode ocorrer de diferentes formas. Essas transformações são chamadas de:
 
-* Cast Implícito: ocorrem de maneira mais automática, sem que a pessoa desenvolvedora precise intervir via código.
+* Cast Implícito: como o próprio nome sugere, ocorre quando não declaramos no código que essa transformação deve ocorrer, ou seja, a deixamos implícita no código.
 
 * Cast Explícito: quando precisamos escrever a transformação e como ela irá ocorrer via código.
+
 
