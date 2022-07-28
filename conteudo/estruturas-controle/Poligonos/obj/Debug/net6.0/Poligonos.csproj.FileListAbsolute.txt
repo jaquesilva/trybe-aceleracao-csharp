@@ -1,0 +1,12 @@
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/bin/Debug/net6.0/Poligonos.deps.json
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/bin/Debug/net6.0/Poligonos.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/bin/Debug/net6.0/Poligonos.pdb
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/Poligonos.csproj.AssemblyReference.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/Poligonos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/Poligonos.AssemblyInfoInputs.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/Poligonos.AssemblyInfo.cs
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/Poligonos.csproj.CoreCompileInputs.cache
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/Poligonos.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/refint/Poligonos.dll
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/Poligonos.pdb
+/home/jaque/Documentos/trybe-aceleracao-c-#/conteudo/trybe-aceleracao-csharp/conteudo/estruturas-controle/Poligonos/obj/Debug/net6.0/ref/Poligonos.dll
